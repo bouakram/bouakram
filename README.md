@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bouakram
+- 👀 I’m interested in coding & artificial intelligence & mobile app
+- 🌱 I’m currently learning (python & Dart ) / machine learning & deep learning
+- 💞️ I’m looking to collaborate on project in ai or app mobile or web 
+- 📫 How to reach me Twitter = https://twitter.com/akrem_QLF / Gmail = kikoua203@gmail.com
