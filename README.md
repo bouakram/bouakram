@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bouakram
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on project in frontend web dev and open sources 
 - 📫 How to reach me Twitter = https://twitter.com/akrem_QLF / Gmail = kikoua203@gmail.com
