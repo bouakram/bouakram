@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react , css , js**
 
-- 📫 How to reach me **https://sage-alfajores-3031f8.netlify.app/** / Gmail = kikoua203@gmail.com
+- 📫 How to reach me **https://sage-alfajores-3031f8.netlify.app/** / Gmail = bougahzi.akram.97@gmail.com
 
 - ⚡ Fun fact **I love my cat**
 
