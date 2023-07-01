@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouakram" alt="bouakram" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js , Type Script**
+- 🌱 I’m **MERN** stack developer
 
-- 💬 Ask me about **react , css , js**
+- 💬 Ask me about **react, express, mongodb , css , js ...**
 
 - 📫 How to reach me Gmail = bougahzi.akram.97@gmail.com
 
