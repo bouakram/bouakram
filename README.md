@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at [https://boughaziakram.vercel.app/](https://boughaziakram.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://boughaziakram.vercel.app/](https://boughaziakram.vercel.app/) -->
 
 - 💬 Ask me about **WEB DEV**
 
