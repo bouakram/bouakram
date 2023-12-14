@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouakram" alt="bouakram" /></a> </p> -->
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **WEB DEV Projects**
 
 <!-- - 👨‍💻 All of my projects are available at [https://boughaziakram.vercel.app/](https://boughaziakram.vercel.app/) -->
 
