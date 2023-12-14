@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://boughaziakram.vercel.app/](https://boughaziakram.vercel.app/)
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **WEB DEV**
 
 - 📫 How to reach me **boughazi.akram.97@gmail.com**
 
